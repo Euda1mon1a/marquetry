@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+
+# Marquetry run outputs (created next to input images)
+*-coaster/
+preview-*.png
+clean-*.png
+raw.svg
+palette.json
